@@ -109,7 +109,7 @@ I’m into building cool stuff in the cloud and messing around with real-time sy
 ## Connect With Me
 <div align="center">
 
-<a href="www.linkedin.com/in/sashank-solasa" target="_blank">
+<a href="https://www.linkedin.com/in/sashanksolasa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
