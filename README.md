@@ -67,6 +67,8 @@ I’m into building cool stuff in the cloud and messing around with real-time sy
 <h3 style="margin-bottom: 8px; color: #00eaff;">Frameworks & Libraries</h3>
 <p>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI/></a>
+
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/></a>
 </p>
 
@@ -91,6 +93,12 @@ I’m into building cool stuff in the cloud and messing around with real-time sy
 <h3 style="margin-bottom: 8px; color: #00eaff;">Frontend</h3>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"
+  /></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"
+  />
+</a>
+
 </p>
 
 <!-- Others -->
