@@ -105,6 +105,10 @@ I’m into building cool stuff in the cloud and messing around with real-time sy
 <h3 style="margin-bottom: 8px; color: #00eaff;">Other Tools / Platforms</h3>
 <p>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50" alt="Maven" /> </a>
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" alt="RStudio"/></a>
+
+
 </p>
 
 </div>
