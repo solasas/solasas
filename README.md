@@ -91,13 +91,29 @@ I’m into building cool stuff in the cloud and messing around with real-time sy
 <!-- Frontend -->
 <h3 style="margin-bottom: 8px; color: #00eaff;">Frontend</h3>
 <p>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"
-  /></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"
-  />
-</a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+  </a>
 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" />
+  </a>
+
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" />
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+  </a>
 </p>
 
 <!-- Others -->
