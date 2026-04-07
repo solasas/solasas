@@ -16,7 +16,7 @@
   font-weight: 500;
   color: #c8e6ff;
   letter-spacing: 1px;
-">A Software Developer From Rajahmundry, Ap 
+">A Software Developer From India 
 </h3>
 <br/>
 
