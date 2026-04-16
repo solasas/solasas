@@ -44,7 +44,7 @@
     border-radius: 8px;
 ">
 
-I’m into building cool stuff in the cloud and messing around with real-time systems. I love taking messy backend problems and making them run smooth as butter. Clean architecture, fast systems, scalable setups — that’s my vibe. Lately, I’ve been playing with microservices and event-driven stuff, just trying to level up and build things that actually feel good to use.
+I like working on backend systems and cloud-based applications. I enjoy solving problems and building systems that run reliably. I focus on keeping things simple, clean, and easy to maintain. Recently, I’ve been learning more about microservices and event-driven architecture to improve my skills.
 
 </div>
 
