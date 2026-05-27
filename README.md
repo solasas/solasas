@@ -129,6 +129,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
 <p>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50" alt="Maven" /> </a>
+  <a href="https://github.com/Netflix/eureka" target="_blank"><img src="https://raw.githubusercontent.com/Netflix/eureka/master/media/eureka-logo.png" width="50" alt="Eureka" /></a>
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" alt="RStudio"/></a>
 
 
