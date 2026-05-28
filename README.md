@@ -200,7 +200,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
 
 <div align="center">
 
-###  <i>This snake survives on late-night commits.... </i>
+###  <i>This snake survives on my late-night commits.... </i>
 
 ![snake gif](https://github.com/solasas/solasas/blob/output/github-snake-dark.svg)
 
