@@ -120,7 +120,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
   </a>
   &nbsp;
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50" title="Next.js"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaFiQoPZfBSNCzmotEApNJiVS-XmWQUsTPw&s" width="50" title="Next.js"/>
   </a>
   &nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
@@ -139,7 +139,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
   </a>
   &nbsp;
   <a href="https://github.com/Netflix/eureka" target="_blank">
-    <img src="https://raw.githubusercontent.com/Netflix/eureka/master/media/eureka-logo.png" width="50" title="Eureka"/>
+    <img src="https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/spring-cloud-netflix.png" width="50" title="Eureka"/>
   </a>
   &nbsp;
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
