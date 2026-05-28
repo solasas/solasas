@@ -96,8 +96,10 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
   </a>
   &nbsp;
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+  
+   &nbsp;
+  <a href="https://github.com/Netflix/eureka" target="_blank">
+    <img src="https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/spring-cloud-netflix.png" width="50" title="Eureka"/>
   </a>
 </p>
 
@@ -137,14 +139,16 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50" title="Maven"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Netflix/eureka" target="_blank">
-    <img src="https://javaetmoi.com/2019/11/desendettement-de-spring-cloud-netflix/spring-cloud-netflix.png" width="50" title="Eureka"/>
-  </a>
+ 
   &nbsp;
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" title="RStudio"/>
   </a>
+  &nbsp;
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+  </a>
+  &nbsp;
 </p>
 
 </div>
