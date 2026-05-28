@@ -142,6 +142,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
 
 ---
 
+
 ## Connect With Me
 <div align="center">
 
@@ -160,6 +161,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
 </div>
 
 ---
+![snake gif](https://github.com/solasas/solasas/blob/output/github-snake-dark.svg)
 
 ## Skill Highlights
 <div style="
@@ -168,6 +170,7 @@ I like working on backend systems and cloud-based applications. I enjoy solving 
     background: rgba(255,255,255,0.04);
     border: 1px solid rgba(255,255,255,0.1);
 ">
+
 
 - A good foundation in Cloud & Backend Engineering  
 - Knowledge of Databases, APIs & DevOps Tools  
