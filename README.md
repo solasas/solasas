@@ -1,11 +1,5 @@
 <!-- VISITOR BADGE + OPEN TO WORK -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=solasas&color=00eaff&style=flat&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat&logo=checkmarx&logoColor=white" />
-</div>
 
-<br/>
 
 <!-- HERO SECTION -->
 <div align="center">
