@@ -5,9 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Sashank%20Solasa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud%20Developer&descAlignY=58&descSize=20" width="100%" alt="header banner" />
-
-<br/>
+<h1>
+  <a href="https://www.fontspace.com/category/cute">
+    <img src="https://see.fontimg.com/api/rf5/XGzrK/NzAwZjBkMmIzMzcxNDc1ZDg0ZjhiZGZhOTQ2ZmJmNGQub3Rm/U2FzaGFuayBTb2xhc2E/peace-marker.png?r=fs&h=130&w=2000&fg=B537F2&bg=0D1117&tb=1&s=65" alt="Sashank Solasa" />
+  </a>
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B537F2&center=true&vCenter=true&width=560&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Cloud+%26+Microservices+Enthusiast+%E2%98%81%EF%B8%8F;Distributed+Systems+Problem+Solver+%F0%9F%94%A7;Currently+Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -102,28 +104,7 @@ class Sashank:
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=solasas&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B537F2&icon_color=B537F2&text_color=C9D1D9&ring_color=B537F2" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solasas&layout=compact&hide_border=true&bg_color=0D1117&title_color=B537F2&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=solasas&hide_border=true&background=0D1117&ring=B537F2&fire=B537F2&currStreakLabel=B537F2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=solasas&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=solasas&theme=react-dark&bg_color=0D1117&color=B537F2&line=B537F2&point=C9D1D9&hide_border=true" width="95%" alt="activity graph"/>
-
-</div>
-
-<br/>
 
 ## 🧩 Coding Profiles
 
@@ -177,9 +158,5 @@ class Sashank:
 <code>"Normal people count sheep. Developers count open tabs."</code>
 <br/>
 <sub><sup>— Sashank Solasa</sup></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
 </div>
