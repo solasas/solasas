@@ -5,6 +5,8 @@
 
 <div align="center">
 
+
+
 <h1>
   <a href="https://www.fontspace.com/category/cute">
     <img src="https://see.fontimg.com/api/rf5/XGzrK/NzAwZjBkMmIzMzcxNDc1ZDg0ZjhiZGZhOTQ2ZmJmNGQub3Rm/U2FzaGFuayBTb2xhc2E/peace-marker.png?r=fs&h=130&w=2000&fg=B537F2&bg=0D1117&tb=1&s=65" alt="Sashank Solasa" />
@@ -25,7 +27,7 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 I build backend systems and cloud-native applications that are meant to stay up at 3am — reliable, observable, and boring in the best way. I like taking a messy problem and turning it into something simple, clean, and easy for the next person (often future me) to maintain.
 
@@ -47,7 +49,7 @@ class Sashank:
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -104,9 +106,22 @@ class Sashank:
 
 <br/>
 
+##  GitHub Stats
 
+<div align="center">
 
-## 🧩 Coding Profiles
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=solasas&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B537F2&icon_color=B537F2&text_color=C9D1D9&ring_color=B537F2" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solasas&layout=compact&hide_border=true&bg_color=0D1117&title_color=B537F2&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=solasas&hide_border=true&background=0D1117&ring=B537F2&fire=B537F2&currStreakLabel=B537F2&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+##  Coding Profiles
 
 <div align="center">
 
@@ -122,7 +137,7 @@ class Sashank:
 
 <br/>
 
-## ⚡ Skill Highlights
+##  Skill Highlights
 
 | | |
 |---|---|
@@ -134,7 +149,7 @@ class Sashank:
 
 <br/>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -149,7 +164,7 @@ class Sashank:
 
 <div align="center">
 
-### 🐍 <i>This snake survives on my late-night commits...</i>
+###  <i>This snake survives on my late-night commits...</i>
 
 ![snake gif](https://github.com/solasas/solasas/blob/output/github-snake-dark.svg)
 
