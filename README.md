@@ -110,8 +110,6 @@ class Sashank:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=solasas&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B537F2&icon_color=B537F2&text_color=C9D1D9&ring_color=B537F2" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solasas&layout=compact&hide_border=true&bg_color=0D1117&title_color=B537F2&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
