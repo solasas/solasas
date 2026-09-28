@@ -15,13 +15,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B537F2&center=true&vCenter=true&width=560&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Cloud+%26+Microservices+Enthusiast+%E2%98%81%EF%B8%8F;Distributed+Systems+Problem+Solver+%F0%9F%94%A7;Currently+Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<sub>📍 Rajahmundry, Andhra Pradesh, India</sub>
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=solasas&label=Profile%20Views&color=b537f2&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/solasas?label=Followers&style=for-the-badge&color=b537f2&logo=github" alt="followers"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-b537f2?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
+
 
 </div>
 
