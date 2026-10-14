@@ -28,19 +28,7 @@ Backend developer building reliable applications with **Java, Spring Boot, and c
 
 </div>
 
-## Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/sashanksolasa">
-<img height="180" src="https://leetcard.jacoblin.cool/sashanksolasa?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</a>
-
-<a href="https://geeksforgeeks.org/user/sashankfzr9/">
-<img height="180" src="https://geeks-for-geeks-stats-card.vercel.app/?username=sashankfzr9" alt="GeeksforGeeks Stats" />
-</a>
-
-</div>
 
 <div align="center">
 
