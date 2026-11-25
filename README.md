@@ -6,7 +6,7 @@
 
 <a href="mailto:sashanksolasa@gmail.com"><img src="https://img.shields.io/badge/Email-1F4E9E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sashanksolasa"><img src="https://img.shields.io/badge/LinkedIn-1F4E9E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://sashanksolasa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F4E9E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sashank.fyi"><img src="https://img.shields.io/badge/Portfolio-1F4E9E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://leetcode.com/u/sashanksolasa/"><img src="https://img.shields.io/badge/LeetCode-1F4E9E?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
